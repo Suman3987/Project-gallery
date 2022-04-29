@@ -1,0 +1,25 @@
+.flexbox-container
+{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.container-item{
+    height: 300px;
+    width: 300px;
+    border: 4px;
+    background-color: aqua;
+
+   
+}
+ img{
+    object-fit: cover;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+
+}
+
