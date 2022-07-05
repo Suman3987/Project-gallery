@@ -1,1 +1,1 @@
-https://suman3987.github.io/flexbox-gallery/
+https://suman3987.github.io/Project-gallery/
