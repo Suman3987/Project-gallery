@@ -88,3 +88,5 @@ readMoreBtn.addEventListener("click", (e) => {
   }
 });
 */
+
+// Terminal practice
